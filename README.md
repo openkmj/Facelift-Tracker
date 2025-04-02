@@ -29,7 +29,7 @@ https://youtu.be/Fyyahbjk9A8
 
 ### Slides
 
-<!-- slide link -->
+[Slide PDF](./slides/slides.pdf)
 
 ## System Architecture
 
